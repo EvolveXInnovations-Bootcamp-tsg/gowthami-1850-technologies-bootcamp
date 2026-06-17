@@ -1,4 +1,4 @@
-# Cpp Bootcamp
+# Python Bootcamp
 
 Student: @gowthami-1850
 
