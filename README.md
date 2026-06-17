@@ -1,2 +1,5 @@
-# gowthami-1850-technologies-bootcamp
-Bootcamp Repository for Java (technologies) - Student: gowthami-1850
+# Java Bootcamp
+
+Student: @gowthami-1850
+
+AI-Guided roadmap and instructions.
