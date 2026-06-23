@@ -1,4 +1,4 @@
-# Python Bootcamp
+# Kubernetes Bootcamp
 
 Student: @gowthami-1850
 
